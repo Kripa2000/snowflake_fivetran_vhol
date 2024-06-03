@@ -1,4 +1,4 @@
-dbtVersion: 0.20.1
+dbtVersion: 1.7.14
 jobs:
 # Give each job a unique name. The name will be displayed in the Fivetran dashboard once your jobs are imported.
  - name: daily
